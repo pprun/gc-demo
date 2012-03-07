@@ -6,9 +6,11 @@ import java.util.List;
 /*
  * To change this template, choose Tools | Templates and open the template in the editor.
  */
+
 /**
- *
- * @author pprun
+ * All cases which trigger OOME.
+ * 
+ * @author <a href="mailto:quest.run@gmail.com">pprun</a>
  */
 public class Oome {
 

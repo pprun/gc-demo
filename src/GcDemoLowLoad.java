@@ -4,8 +4,14 @@
  */
 
 /**
- *
- * @author pprun
+ * A demo for Java GC Tuning.
+ * <p>
+ * - sleep 1~100 ms
+ * - run 90 s
+ * - long-term-object / short-term-object = 1/3
+ * </p>
+ * 
+ * @author <a href="mailto:quest.run@gmail.com">pprun</a>
  */
 public class GcDemoLowLoad extends Thread {
 
