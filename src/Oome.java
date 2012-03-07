@@ -57,7 +57,7 @@ public class Oome {
     }
 
     private static void infinitelyMalloc() {
-        List<String> list = new ArrayList<>();
+        List<String> list = new ArrayList<String>();
         while (true) {
             list.add("I'm head to OOME!");
         }
